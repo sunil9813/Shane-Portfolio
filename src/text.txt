@@ -1,0 +1,111 @@
+const data = [
+    {
+      cover: "./images/about.jpg",
+      catgeory: "ABOUT ME",
+      title: "Creative Software Engineer based in New York, USA",
+      desc: "I'm web designer, and I'm very passionate and dedicated to my work. With 20 years experience as a professional web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.",
+    },
+  ]
+
+const data = [
+  {
+    id: 1,
+    cover: "./images/por1.jpg",
+    title: "My Story",
+    category: "Design",
+  },
+  {
+    id: 2,
+    cover: "./images/por2.jpg",
+    title: "Design Trend",
+    category: "Branding",
+  },
+  {
+    id: 3,
+    cover: "./images/por3.jpg",
+    title: "Soft Cream",
+    category: "Photography",
+  },
+  {
+    id: 4,
+    cover: "./images/por4.jpg",
+    title: "Shane Design",
+    category: "Design",
+  },
+  {
+    id: 5,
+    cover: "./images/por5.jpg",
+    title: "Sweet Cherry",
+    category: "Photography",
+  },
+  {
+    id: 6,
+    cover: "./images/por6.jpg",
+    title: "Behance Shoot",
+    category: "Branding",
+  },
+]
+
+export default data
+
+
+const data = [
+    {
+      title: "I have high skills in developing and programming",
+      decs: "I am working on a professional, visually sophisticated and technologically proficient, responsive and multi-functional personal portfolio template Shane.",
+    },
+  ]
+
+
+ const data = [
+    {
+      cover: "./images/b1.png",
+    },
+    {
+      cover: "./images/b2.png",
+    },
+    {
+      cover: "./images/b3.png",
+    },
+    {
+      cover: "./images/b4.png",
+    },
+  ]
+
+
+  const data = [
+    {
+      id: 1,
+      desc: "I purchased the theme a few weeks ago. I had some issues with the theme, I asked customer support to help me with and they were helpful and kind to help me with all my problems. I definitely recommend this theme to everyone.",
+      cover: "./images/por1.jpg",
+      name: "Justin Biber",
+      catgeory: "Web Designer",
+    },
+  ]
+
+   const data = [
+    {
+      id: 1,
+      cover: "./images/blog1.jpg",
+      title: "Developers watch out for these burnout symptoms",
+      date: "20 MAY 2022",
+      name: "BY ALEX WATSON",
+    },
+    {
+      id: 2,
+      cover: "./images/blog2.jpg",
+      title: "How to be appreciated for your hard work as a developer",
+      date: "07 APRIL 2022",
+      name: "BY BROOK KENNEDY",
+    },
+    {
+      id: 3,
+      cover: "./images/blog3.jpg",
+      title: "How designers and developers can collaborate better",
+      date: "02 MARCH 2022",
+      name: "BY PAOLA ATKINS ",
+    },
+  ]
+
+  
+<p>© 2022 by GorkhCoder. All rights reserved.</p>
